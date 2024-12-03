@@ -16,7 +16,7 @@ The system is equipped with basic computations (addition, subtraction, multiplic
 ## Project Requirements
 | Part | Description |
 | --- | --- |
-| Tools | Visual Basic 6.0 Enterprise, Dev C++ |
+| Tools | • Visual Basic 6.0 Enterprise<br>• Dev C++ |
 | Features | Computation, Validation |
 | Operation System | Windows 11 |
 
