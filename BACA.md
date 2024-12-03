@@ -17,7 +17,7 @@ Sistem ini dilengkapi dengan perhitungan dasar (penjumlahan, pengurangan, perkal
 | Part | Description |
 | --- | --- |
 | Peralatan | • Visual Basic 6.0 Enterprise<br>• Dev C++ |
-| Fitur | Komputasi, Validasi |
+| Fitur | • Komputasi<br>• Validasi |
 | Sistem Operasi | Windows 11 |
 
 <br><br>
