@@ -17,7 +17,7 @@ The system is equipped with basic computations (addition, subtraction, multiplic
 | Part | Description |
 | --- | --- |
 | Tools | • Visual Basic 6.0 Enterprise<br>• Dev C++ |
-| Features | Computation, Validation |
+| Features | • Computation<br>• Validation |
 | Operation System | Windows 11 |
 
 <br><br>
