@@ -28,7 +28,7 @@ The system is equipped with basic computations (addition, subtraction, multiplic
    <table><tr><td width="810">
       
    ```
-   https://bit.ly/VisualBasic6_Installer
+   https://bit.ly/VB6_Installer
    ```
 
    </td></tr></table>
