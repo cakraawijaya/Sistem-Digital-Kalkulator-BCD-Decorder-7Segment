@@ -28,7 +28,7 @@ Sistem ini dilengkapi dengan perhitungan dasar (penjumlahan, pengurangan, perkal
    <table><tr><td width="810">
       
    ```
-   https://bit.ly/VisualBasic6_Installer
+   https://bit.ly/VB6_Installer
    ```
 
    </td></tr></table>
