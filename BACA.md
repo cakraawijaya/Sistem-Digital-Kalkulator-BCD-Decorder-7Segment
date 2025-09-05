@@ -4,7 +4,7 @@
 ![Project](https://img.shields.io/badge/Project-Desktop-light.svg?style=flat&logo=c&logoColor=white&color=%23F7DF1E)
 ![Type](https://img.shields.io/badge/Type-Campus%20Assignment-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
-# Sistem-Digital-Kalkulator-BCD-Decorder-7Segment
+# Sistem Digital Kalkulator BCD Decorder 7 Segment
 Sistem ini dilengkapi dengan perhitungan dasar (penjumlahan, pengurangan, perkalian, dan pembagian). Yang membuatnya berbeda dengan aplikasi lain adalah hasilnya tidak hanya berupa angka tetapi juga ditampilkan dalam bentuk kode 7 Segment, sehingga memudahkan seseorang dalam mempelajari sistem digital ini. Sistem ini tersedia dalam 2 bahasa pemrograman, yaitu C++ dan VB6.
 
 <br>
